@@ -21,7 +21,7 @@ def square_sum
   return sum2.to_i
 end
 
-def sum(sum_square, square_sum)
+def difference(sum_square, square_sum)
   result1 = square_sum.to_i
   result2 = sum_square.to_i
   diff = result1 - result2
